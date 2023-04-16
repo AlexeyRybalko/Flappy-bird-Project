@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/teko/v15/LYjCdG7kmE0gdRhYsCRgqA.woff2) format('woff2');
+}
+
+canvas {
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+}
